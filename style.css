@@ -6,7 +6,7 @@ Description: Design template for Terje L. Tangen
 Requires at least: 6.0
 Tested up to: 6.5.2
 Requires PHP: 8.1
-Version: 1.0.0
+Version: 1.0.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: tangen
@@ -16,7 +16,7 @@ GitHub Theme URI: https://github.com/terjelundemotangen/landos
 
 body {
   height: 100vh;
-  background-image: linear-gradient(to bottom, #000000 0%, #ff9b02 100%);
+  background-image: linear-gradient(to bottom, #000000 0%, #0280ff 100%);
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
