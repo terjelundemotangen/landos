@@ -1,30 +1,27 @@
-=== tangen ===
+=== landos ===
 Contributors: Terje Lundemo Tangen
 Requires at least: 6.0
 Tested up to: 6.5
-Requires PHP: 5.7
+Requires PHP: 8.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Design template for Terje Lundemo Tangen
+Design template for Landos
 
 == Changelog ==
 
-= 1.0.2 =
-* Changed github update to Git Updater
-
 = 1.0.1 =
-* Update from github.com
+* Changed github update to Git Updater
 
 = 1.0.0 =
 * Initial release
 
 == Copyright ==
 
-tangen WordPress Theme, (C) 2024 Terje Lundemo Tangen
-tangen is distributed under the terms of the GNU GPL.
+landos WordPress Theme, (C) 2024 Terje Lundemo Tangen
+landos is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
